@@ -1,0 +1,2 @@
+# MyStdManager
+Personal java project
